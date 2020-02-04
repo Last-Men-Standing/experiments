@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Last-Men-Standing/experiments/issues"
   },
-  "homepage": "https://github.com/Last-Men-Standing/experiments#readme"
+  "homepage": "https://github.com/Last-Men-Standing/experiments#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
