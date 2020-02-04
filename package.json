@@ -1,0 +1,19 @@
+{
+  "name": "experiments",
+  "version": "1.0.0",
+  "description": "test out whatever you want",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Last-Men-Standing/experiments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Last-Men-Standing/experiments/issues"
+  },
+  "homepage": "https://github.com/Last-Men-Standing/experiments#readme"
+}
