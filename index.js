@@ -13,8 +13,7 @@ const app = express();
  * Binds callback function (with params for the request, and the response we send back), to the path "/"
  */
 app.get("/", (req, res) => {
-  console.log(req);
-  res.send("Hello World");
+  return res.json({ message: "Hello World" });
 });
 
 /**
